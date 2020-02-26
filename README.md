@@ -1,2 +1,3 @@
 # Gerenciador-de-senhas-
-Um gerenciador de senhas feito em python
+Um gerenciador de senhas usando Python e SQLite. 
+
